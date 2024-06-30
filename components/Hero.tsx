@@ -30,12 +30,11 @@ const Hero = () => {
         </div>
 
         <div className="flex flex-col w-full gap-3 sm:flex-row">
-          <Button type="button" title="Download App" variant="btn_green" />
           <Button
             type="button"
-            title="How we work?"
-            icon="/play.svg"
-            variant="btn_white_text"
+            title="Play Store"
+            icon="/android.svg"
+            variant="btn_green"
           />
         </div>
       </div>
@@ -49,17 +48,6 @@ const Hero = () => {
             </div>
             <p className="bold-20 text-white">Gafsa, Tunisia</p>
           </div>
-          {/* 
-          <div className="flexBetween">
-            <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Distance</p>
-              <p className="bold-20 text-white">2.28 Km</p>
-            </div>
-            <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Elevation</p>
-              <p className="bold-20 text-white">1.040 km</p>
-            </div>
-          </div> */}
         </div>
       </div>
     </section>
