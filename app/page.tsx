@@ -5,6 +5,7 @@ import Features from "@/components/Features";
 import GetApp from "@/components/GetApp";
 import Guide from "@/components/Guide";
 import Hero from "@/components/Hero";
+import Navbar from "@/components/Navbar";
 import Lenis from "@studio-freight/lenis";
 import { useEffect } from "react";
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
 
     requestAnimationFrame(raf);
   }, []);
+
   return (
     <>
       <Hero />
