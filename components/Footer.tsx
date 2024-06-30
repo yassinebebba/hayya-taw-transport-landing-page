@@ -9,7 +9,10 @@ const Footer = () => {
       <div className="padding-container max-container flex w-full flex-col gap-14">
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-row">
           <Link href="/" className="mb-10">
-            <Image src="hilink-logo.svg" alt="logo" width={74} height={29} />
+            <div className="flex gap-3">
+              <h1 className="bold-40 lg:bold-52">Hayya</h1>
+              <h1 className="bold-40 lg:bold-52 text-green-500"> Taw</h1>
+            </div>
           </Link>
 
           <div className="flex flex-wrap gap-10 sm:justify-between md:flex-1">
@@ -58,7 +61,7 @@ const Footer = () => {
 
         <div className="border bg-gray-20" />
         <p className="regular-14 w-full text-center text-gray-30">
-          2023 Hilink | All rights reserved
+          2024 Hayya taw | All rights reserved
         </p>
       </div>
     </footer>

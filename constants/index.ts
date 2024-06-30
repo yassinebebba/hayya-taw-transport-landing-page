@@ -52,7 +52,7 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
-      'About Hilink',
+      'About Hayya taw',
       'Press Releases',
       'Environment',
       'Jobs',
@@ -60,17 +60,14 @@ export const FOOTER_LINKS = [
       'Contact Us',
     ],
   },
-  {
-    title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
-  },
+
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', value: '123-456-7890' },
-    { label: 'Email Officer', value: 'hilink@akinthil.com' },
+    { label: 'Admin Officer', value: '+216 99735853' },
+    { label: 'Email Officer', value: 'yassinebebba@hayyataw.com' },
   ],
 };
 
