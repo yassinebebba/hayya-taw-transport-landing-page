@@ -7,7 +7,11 @@ const Hero = () => {
       <div className="hero-map" />
 
       <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
-        <h1 className="bold-52 lg:bold-88">Hayya Taw</h1>
+        <div className="flex gap-3">
+          <h1 className="bold-52 lg:bold-88">Hayya</h1>
+          <h1 className="bold-52 lg:bold-88 text-green-500"> Taw</h1>
+        </div>
+
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
           Hayya Taw is a leading taxi service dedicated to providing fast,
           reliable, and affordable rides. We understand the importance of
