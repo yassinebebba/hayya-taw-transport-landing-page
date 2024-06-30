@@ -49,17 +49,17 @@ const Hero = () => {
             </div>
             <p className="bold-20 text-white">Gafsa, Tunisia</p>
           </div>
-
+          {/* 
           <div className="flexBetween">
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Distance</p>
-              <p className="bold-20 text-white">13.28 Km</p>
+              <p className="bold-20 text-white">2.28 Km</p>
             </div>
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Elevation</p>
               <p className="bold-20 text-white">1.040 km</p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
