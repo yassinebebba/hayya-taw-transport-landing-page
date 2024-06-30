@@ -12,7 +12,7 @@ export const PEOPLE_URL = [
   '/person-3.png',
   '/person-4.png',
 ];
-//gcahsgd
+
 // FEATURES SECTION
 export const FEATURES = [
   {
