@@ -13,6 +13,8 @@ export const PEOPLE_URL = [
   '/person-4.png',
 ];
 
+//l
+
 // FEATURES SECTION
 export const FEATURES = [
   {
