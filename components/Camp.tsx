@@ -17,7 +17,12 @@ const CampSite = ({
   return (
     <div
       className={`h-full w-full min-w-[1100px] bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}
-      style={{ backgroundImage: `url(${backgroundImage})` }}
+      style={{
+        backgroundImage: `url(${backgroundImage})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+      }}
     >
       <div className="flex h-full flex-col items-start justify-between p-6 lg:px-20 lg:py-10">
         <div className="flexCenter gap-4">
@@ -44,13 +49,13 @@ const Camp = () => {
     <section className="2xl:max-container relative flex flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20">
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite
-          backgroundImage="/slider2.jpg"
+          backgroundImage="/slider1.jpeg"
           title="Explore your city"
           subtitle="Gafsa, Tunisa"
           peopleJoined="50+ Joined"
         />
         <CampSite
-          backgroundImage="/slider1.jpeg"
+          backgroundImage="/image.webp"
           title="Mountain View Camp"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
