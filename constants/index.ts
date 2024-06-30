@@ -18,25 +18,25 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Reliable Offline Navigation',
+    title: 'Ride Tracking',
     icon: '/map.svg',
     variant: 'green',
     description:
-      'Our app provides reliable navigation even when you are offline, ensuring you can reach your destination without any signal interruptions.',
+      'Our app provides Ride Tracking navigation even when you are offline, ensuring you can reach your destination without any signal interruptions.',
   },
   {
-    title: 'Schedule Your Rides',
+    title: 'Schedule Your Rides - comming soon',
     icon: '/calendar.svg',
     variant: 'green',
     description:
       "Plan and schedule your rides in advance with ease. Enjoy special offers during holidays and busy times, making your travel more convenient.",
   },
   {
-    title: 'Augmented Reality Navigation',
+    title: 'Real Time Updates',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      'Experience cutting-edge augmented reality navigation that guides you through busy streets and unfamiliar areas, even without an internet connection.',
+      'Stay ahead of the curve with instant updates on traffic conditions, route changes, and passenger requests, ensuring you always have the latest information for a seamless driving experience.',
   },
   {
     title: 'New Routes and Destinations',
