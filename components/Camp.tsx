@@ -51,13 +51,13 @@ const Camp = () => {
         <CampSite
           backgroundImage="/slider1.jpeg"
           title="Explore your city"
-          subtitle="Gafsa, Tunisa"
+          subtitle="Where ever you are"
           peopleJoined="50+ Joined"
         />
         <CampSite
           backgroundImage="/image.webp"
-          title="Mountain View Camp"
-          subtitle="Somewhere in the Wilderness"
+          title="Connect where ever you are"
+          subtitle="find your nearest driver in your area."
           peopleJoined="50+ Joined"
         />
       </div>
