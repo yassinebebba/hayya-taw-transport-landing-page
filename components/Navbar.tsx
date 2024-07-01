@@ -23,7 +23,7 @@ const Navbar: React.FC<NavbarProps> = () => {
 
   return (
     <nav
-      className="flexBetween mx-auto max-w-[1440px]  padding-container relative z-30 py-5"
+      className="flexBetween   mx-auto max-w-[1440px]  padding-container relative z-30 py-5"
       style={{
         position: "sticky",
         top: 0,
