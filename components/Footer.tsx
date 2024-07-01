@@ -53,7 +53,7 @@ const Footer = () => {
 
         <div className="border bg-gray-20" />
         <p className="regular-14 w-full text-center text-gray-30">
-          2024 Hayya taw | All rights reserved
+          2024 Hayya Taw | All rights reserved
         </p>
       </div>
     </footer>

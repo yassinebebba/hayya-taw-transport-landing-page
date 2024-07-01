@@ -14,7 +14,7 @@ const Guide = () => {
             Guide You to Easy Path
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
-            Only with the Hayya taw application you will no longer get lost and
+            Only with the Hayya Taw application you will no longer get lost and
             get lost again, because we already support offline maps when there
             is no internet connection in the field. Invite your friends,
             relatives and friends to have fun in the wilderness through the
