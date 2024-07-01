@@ -74,6 +74,7 @@ const Camp = () => {
             seamless and stress-free travel experience.
           </p>
           <Image
+            id="guid"
             src="/quote.svg"
             alt="camp-2"
             width={186}

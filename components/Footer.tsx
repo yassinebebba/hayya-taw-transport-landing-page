@@ -20,7 +20,11 @@ const Footer = () => {
               <FooterColumn title={FOOTER_CONTACT_INFO.title}>
                 {FOOTER_CONTACT_INFO.links.map((link) => (
                   <Link
-                    href="/"
+                    href={
+                      link.label === "Email Officer"
+                        ? `mailto:${link.value}`
+                        : `tel:${link.value}`
+                    }
                     key={link.label}
                     className="flex gap-4 md:flex-col lg:flex-row"
                   >

@@ -18,6 +18,11 @@ export default function Home() {
     };
 
     requestAnimationFrame(raf);
+    console.log(
+      `%c This website is created by Mohamed Bebba %c https://mohamedbebba.de/ `,
+      "background: #333; color: #fff; padding: 5px;",
+      "background: #007bff; color: #fff; padding: 5px;"
+    );
   }, []);
 
   return (

@@ -10,9 +10,7 @@ const GetApp = () => {
           <h2 className="bold-40 lg:bold-64 xl:max-w-[320px]">
             Get for free now!
           </h2>
-          <p className="regular-16 text-gray-10">
-            Available on iOS and Android
-          </p>
+          <p className="regular-16 text-gray-10">Available on Android</p>
           <div className="flex w-full flex-col gap-3 whitespace-nowrap xl:flex-row">
             <Button
               type="button"
@@ -22,9 +20,8 @@ const GetApp = () => {
             />
           </div>
         </div>
-
-        <div className="flex flex-1 items-center justify-center">
-          <Image src="/phones.png" alt="phones" width={280} height={280} />
+        <div className="flex flex-1 items-center justify-end">
+        <Image src="/phones.png" alt="phones" width={290} height={290} />
         </div>
       </div>
     </section>
