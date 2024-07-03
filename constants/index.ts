@@ -70,6 +70,16 @@ export const FOOTER_CONTACT_INFO = {
   ],
 };
 
+export const FOOTER_USEFUL_LINKS = {
+  title: 'Useful Links',
+  links: [
+    { label: 'Privacy policy - Passengers', value: 'privacy-policy-passengers' },
+    { label: 'Privacy policy - Drivers', value: 'privacy-policy-drivers' },
+    { label: 'Terms & Conditions', value: 'terms-and-conditions' },
+    { label: 'Delete account', value: 'delete-account' },
+  ],
+};
+
 export const SOCIALS = {
   title: 'Social',
   links: [
