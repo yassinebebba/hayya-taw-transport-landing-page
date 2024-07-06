@@ -1,7 +1,7 @@
 export default function PrivacyPolicy() {
     return (<>
         <div style={{padding: '20px', fontFamily: 'Arial, sans-serif'}}>
-            <h1>Privacy Policy for Hayya Taw</h1>
+            <h1>Privacy Policy for Hayya Taw - Passengers</h1>
             <p><strong>Effective Date:</strong> 03/07/2024</p>
 
             <h2>1. Introduction</h2>
