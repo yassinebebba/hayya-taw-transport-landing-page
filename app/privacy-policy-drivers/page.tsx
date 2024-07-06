@@ -17,9 +17,10 @@ export default function PrivacyPolicy() {
                 <li>Name</li>
                 <li>Phone Number</li>
                 <li>Email Address</li>
+                <li>Driver Image</li>
+                <li>Taxi Licence Plate Number</li>
             </ul>
-            <p>We also collect geolocation data only when the user is using the app in the foreground.</p>
-
+            <p>We also collect geolocation data in the foreground and background.</p>
             <h2>3. Use of Information</h2>
             <p>The information collected from you is used for the following purposes:</p>
             <ul>
@@ -41,11 +42,11 @@ export default function PrivacyPolicy() {
                 disclosure, or destruction.</p>
 
             <h2>7. Geolocation Data</h2>
-            <p>We use geolocation data only in the foreground when you are actively using the app. This data is used to
-                improve the services we provide.</p>
-
+            <p>We use geolocation data in the foreground and background. This data is used to
+                improve the services we provide and give out passengers live updates about the drivers location.</p>
+            <p>For background geolocation data collection we use a foreground service which is visible to the user.</p>
             <h2>8. User Registration</h2>
-            <p>Users can register with our app by providing their name, phone number, and email address. This
+            <p>Users cannot register with our app but they can contact us at support@hayyataw.com or call (+21698569410 or +21699735853) or in person, and provide their name, phone number, email address, their taxi's licence plate number and their picture. This
                 information is essential for us to provide the services you request.</p>
 
             <h2>9. Push Notifications</h2>
@@ -59,7 +60,7 @@ export default function PrivacyPolicy() {
             </p>
 
             <h2>11. Data Protection for Minors</h2>
-            <p>Our app targets users who are 13+. We do not collect sensitive data and adhere to strict data protection
+            <p>Our app targets users who are 18+. We do not collect sensitive data and adhere to strict data protection
                 regulations to safeguard minors' information.</p>
 
             <h2>12. No Marketing or Advertisements</h2>
@@ -69,7 +70,7 @@ export default function PrivacyPolicy() {
             <p>We do not accept online payments through our app.</p>
 
             <h2>14. Data Collection Limitations</h2>
-            <p>We only collect data provided by users in the registration form. We do not access or collect data from
+            <p>We only collect data provided by users when they talk to us or meet us in person. We do not access or collect data from
                 any other sources.</p>
 
             <h2>15. No Use of Google Analytics</h2>
