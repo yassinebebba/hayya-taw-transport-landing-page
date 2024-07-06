@@ -54,12 +54,12 @@ export default function PrivacyPolicy() {
             <h2>10. User Data Access and Deletion</h2>
             <p>
                 Users can request access to their collected data or delete their account by contacting us at
-                <a href="mailto:support@hayyataw.com">support@hayyataw.com</a> or visiting
-                <a href="https://www.hayyataw.com/delete-acount">https://www.hayyataw.com/delete-acount</a>.
+                <a href="mailto:support@hayyataw.com"> support@hayyataw.com </a> or visiting
+                <a href="https://www.hayyataw.com/delete-account"> https://www.hayyataw.com/delete-account </a>.
             </p>
 
             <h2>11. Data Protection for Minors</h2>
-            <p>Our app targets users under 18. We do not collect sensitive data and adhere to strict data protection
+            <p>Our app targets users who are 13+. We do not collect sensitive data and adhere to strict data protection
                 regulations to safeguard minors' information.</p>
 
             <h2>12. No Marketing or Advertisements</h2>
